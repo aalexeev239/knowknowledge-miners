@@ -1,0 +1,15 @@
+- git
+- postcss
+- gulp
+- js
+- css3 правила
+- методологии
+  - bem
+  - smacss
+  - ooscss
+- фреймворки
+  - bootstrap
+  - foundations
+  - semanticUI
+- responsive
+  
