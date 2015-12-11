@@ -12,4 +12,4 @@
   - foundations
   - semanticUI
 - responsive
-  
+- email
